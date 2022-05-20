@@ -42,7 +42,7 @@ $ npm start
 ### Heroku
 You can host this bot to make it stay online on Heroku.
 
-<a href="https://heroku.com/deploy?template=https://github.com/mzrtamp/rawon"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/phantomic12/rawon"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"></a>
 
 ### Glitch
 You can use Glitch too for this project, featured with its code editor.
@@ -55,7 +55,7 @@ You can use Glitch too for this project, featured with its code editor.
 6. After specifying `.env`, open **Tools** > **Terminal**
 7. Type `refresh`, and track the process from **Logs**
 
-<a href="https://glitch.com/edit/#!/import/github/mzrtamp/rawon"><img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix on Glitch"></a>
+<a href="https://glitch.com/edit/#!/import/github/phantomic12/rawon"><img src="https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg" alt="Remix on Glitch"></a>
 
 ## Project Maintainer
 - [@Mednoob](https://github.com/Mednoob)
